@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.test ul{list-style:none;}
+.test li{float:left;}
+.test li{float:left;width:100px;} 
+.test a:link{color:#142CE9;background:blue;text-decoration:none;}
+.test a:visited{color:#BF5B5B;text-decoration:underline;}
+.test a:hover{color:#3F8E2C; font-weight:bold;
+text-decoration:underline;background:#F00;}
+.test a{display:block;text-align: center;height:30px;}
+.test li{float:left;width:100px;background:red;margin-left:3px;line-height:30px;} 
+.test a:link{color:#666;background:url("0F0117A996F82A593B0726CF1F36355E.jpg") purple no-repeat 5px 12px;text-decoration:none;}
+.test a:hover{color:#BEA32F; font-weight:bold;text-decoration:none;
+background:url("QJ9127176766.jpg") #F00 no-repeat 5px 12px;} 
+
+
